@@ -6,7 +6,7 @@ This project is an end-to-end **Customer Growth Intelligence Engine** designed t
 ## Author
 Shivam Yadav
 
-## 📅 Duration
+## Duration
 June 2026
 
 ## Objectives
