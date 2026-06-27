@@ -9,6 +9,8 @@ Shivam Yadav
 ## Duration
 June 2026
 
+##  RAW DATA ACCESS : https://drive.google.com/drive/folders/14Ayz6MwoLieWdcZdB0x5lFInTdD0SNDI?usp=sharing
+
 ## Objectives
 - Identify high-value customers
 - Improve customer retention
